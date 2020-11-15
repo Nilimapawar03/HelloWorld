@@ -1,2 +1,2 @@
 # HelloWorld
-First github to check ow it works
+First github to check how its working
